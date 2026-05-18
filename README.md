@@ -1,4 +1,4 @@
-# 📝 illiterate
+# 📝 illiterate - OCR을 이용한 전자문서화
 
 > 프론트엔드 전반을 담당하였습니다. React + TypeScript 기반으로 전체 UI 구조 설계부터 페이지 개발, 컴포넌트 구성, 인증 플로우 구현까지 전담하였습니다.
 
